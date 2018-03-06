@@ -3,7 +3,7 @@
     padding-top: 0px;
 	padding-left: 40px;
     color: #000000;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Times', sans-serif;
 }
 #main-menu a {
 	color: #707070;
@@ -17,7 +17,7 @@
 }
 #main-menu h1 {
     padding-top: 20px;
-    font-size: 25px;
+    font-size: 40px;
 }
 
 #home {
@@ -36,7 +36,7 @@
     width:50%
 }
 #profile p {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Times', sans-serif;
 }
 
 #projects {
