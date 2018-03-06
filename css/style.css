@@ -44,8 +44,12 @@
 }
 #project {
     padding-top: 5px;
+    display: unset;
 }
 #project img {
     padding-left: 50px;
-    width: 10%;
+    width: 150px;
+    height: 150px;
+    object-fit: scale-down;
+    margin: auto;
 }
