@@ -15,6 +15,9 @@
 #main-menu a:hover {
 	color: #121212;
 }
+#main-menu .selected {
+    color: #C67171;
+}
 #main-menu h1 {
     padding-top: 20px;
     font-size: 18px;
