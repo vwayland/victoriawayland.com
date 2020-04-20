@@ -12,3 +12,7 @@ compressed versions of the pictures you're using for project pages so that thumb
 css/style.css
 -------------
 file that sets the format of everything in the website
+
+index.html
+-------------
+file for home page
